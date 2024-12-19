@@ -1,0 +1,42 @@
+{
+"spider":"./box/fan.txt;md5;fd16c6765d2cc453d40f8b3dfc02621d",
+"wallpaper":"./box/1.jpg",
+"sites":[
+{"key":"豆瓣","name":"广告别信，小心诈骗！","type":3,"api":"./box/drpy2.min.js","ext":"./box/豆瓣.js"},
+{"key":"荐片","name":"荐片（DR）","type":3,"api":"./box/drpy2.min.js","ext":"./box/荐片.js"},
+{"key":"低端","name":"低端（DR）","type":3,"api":"./box/drpy2.min.js","ext":"./box/低端.js"},
+{"key":"路漫","name":"路漫（DR）","type":3,"api":"./box/drpy2.min.js","ext":"./box/路漫漫.js"},
+{"key":"Auete","name":"Auete（DR）","type":3,"api":"./box/drpy2.min.js","ext":"./box/Auete.js"},
+{"key":"mp4us","name":"MP4电影（DR）","type":3,"api":"./box/drpy2.min.js","ext":"./box/mp4us.js"},
+
+{"key":"文采","name":"文采（SP）","type":3,"api":"csp_Jpys","searchable":1,"quickSearch":1,"changeable":1},
+{"key":"苹果","name":"苹果（SP）","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1},
+{"key":"糯米","name":"糯米（SP）","type":3,"api":"csp_Nmyswv","searchable":1,"quickSearch":1,"changeable":1},
+{"key":"比特","name":"比特（SP）","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"changeable":1},
+{"key":"Lib","name":"LIBVIO（SP）","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.libvio.fun/"},
+{"key":"厂长","name":"厂长（SP）","type":3,"api":"csp_NewCz","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.czzy77.com/"},
+{"key":"zxzj","name":"在线（SP）","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.zxzja.com/"},
+{"key":"萌米","name":"萌米（SP）","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8Iifux0Y8Qze6tVlMg=="},
+{"key":"欢视","name":"欢视（SP）","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8IPB+BwH4Qma+opv"},
+{"key":"新6V","name":"6V电影（SP）","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"changeable":0,"ext":"https://www.xb6v.com/"},
+
+{"key":"暴风","name":"暴风（AD）","type":1,"api":"https://bfzyapi.com/api.php/provide/vod","searchable":1,"changeable":1},
+
+{"key":"YiSo","name":"易搜（SP）","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"changeable":0,"playerType":2,"ext":{"Cloud-drive":"2bc3a2cb84f1457791883a31bc59aa4a"}},
+{"key":"PanSearch","name":"盘搜（SP）","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"changeable":0,"playerType":2,"ext":{"Cloud-drive":"2bc3a2cb84f1457791883a31bc59aa4a"}},
+
+{"key":"push_agent","name":"推送（SP）","type":3,"api":"csp_Push","searchable":1,"changeable":0,"ext":{"Cloud-drive":"2bc3a2cb84f1457791883a31bc59aa4a"}}
+],
+
+"parses":[{"name":"虾米","type":0,"url":"https://jx.xmflv.com/?url="}],
+
+"flags":["qq","youku","mgtv","xigua","qiyi","bilibili","腾讯","爱奇艺","优酷","芒果TV","西瓜视频","哔哩哔哩","CNTV"],
+
+"lives":[
+{"name":"t9t8","type":0,"timeout":5,"url":"./live.txt","epg": "https://e.erw.cc/e.xml"},
+{"name":"kimwang1978","type":0,"timeout":5,"playerType":1,"url":"https://live.iptv365.org/live.txt","epg": "https://e.erw.cc/e.xml"},
+{"name":"fanmingming","type":0,"timeout":5,"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u","epg": "https://github.moeyy.xyz/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/e.xml"},
+{"name":"YueChan","type":0,"timeout":5,"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/APTV.m3u"},
+{"name":"YanG-1989","type":0,"timeout":5,"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/YanG-1989/m3u/refs/heads/main/Gather.m3u"}
+]
+}
