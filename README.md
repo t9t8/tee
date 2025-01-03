@@ -1,11 +1,11 @@
-### 仓库  
+### A  
 [t9t8](https://ghgo.xyz/https://raw.githubusercontent.com/t9t8/tee/refs/heads/main/1.json)  
 [o0HalfLife0o](https://github.com/o0HalfLife0o/TVBoxOSC)  
 [q215613905](https://github.com/q215613905/TVBoxOS)  
 [takagen99](https://github.com/takagen99/Box)  
 [FongMi](https://github.com/FongMi/TV)  
 [dr_py](https://github.com/hjdhnx/dr_py)
-### 参考  
+### AA  
 [dxawi/0](https://github.com/dxawi/0)  
 [gaotianliuyun/gao](https://github.com/gaotianliuyun/gao)  
 [FongMi/CatVodSpider](https://github.com/FongMi/CatVodSpider)  
@@ -17,7 +17,7 @@
 [F-v7a](https://ghgo.xyz/https://github.com/FongMi/Release/blob/fongmi/apk/release/leanback-java-armeabi_v7a.apk)、
 [Fv8a](https://ghgo.xyz/https://github.com/FongMi/Release/blob/fongmi/apk/release/leanback-java-arm64_v8a.apk)、
 [F-m8a](https://ghgo.xyz/https://github.com/FongMi/Release/blob/fongmi/apk/release/mobile-java-arm64_v8a.apk)
-### 其它  
+### AAA  
 [kimwang1978](https://github.com/kimwang1978/collect-tv-txt)  
 [llxxcc2025/gudou](https://github.com/llxxcc2025/llxxcc2025)  
 [fanmingming/live](https://github.com/fanmingming/live)  
