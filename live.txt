@@ -86,14 +86,11 @@ CCTV17,http://home.zackfair1993.xyz:8686/rtp/239.77.1.121:5146
 广东体育,http://home.zackfair1993.xyz:8686/rtp/239.77.0.112:5146
 惠州一套,http://home.zackfair1993.xyz:8686/rtp/239.77.1.232:5146
 
-AKTV,#genre#
+测试,#genre#
 翡翠台,http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
 无线新闻,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
-娱乐新闻台,http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
-翡翠综合台,http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
-翡翠剧集台,http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
-黃金翡翠台,http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
 TVB Plus,http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
+千禧经典台,http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
 TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
 ViuTV,http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
 TVBS新闻,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
