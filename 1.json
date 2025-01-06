@@ -34,9 +34,9 @@
 
 "lives":[
 {"name":"t9t8","type":0,"timeout":5,"url":"./live.txt","epg": "https://e.erw.cc/e.xml"},
-{"name":"kimwang1978","type":0,"timeout":3,"playerType":1,"url":"https://live.iptv365.org/live.txt","epg": "https://e.erw.cc/e.xml"},
-{"name":"fanmingming","type":0,"timeout":5,"url":"https://ghgo.xyz/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u","epg": "https://ghgo.xyz/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/e.xml"},
-{"name":"YueChan","type":0,"timeout":5,"url":"https://ghgo.xyz/https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/APTV.m3u"},
-{"name":"YanG-1989","type":0,"timeout":5,"url":"https://ghgo.xyz/https://raw.githubusercontent.com/YanG-1989/m3u/refs/heads/main/Gather.m3u"}
+{"name":"kimwang1978","type":0,"timeout":5,"playerType":1,"url":"https://live.iptv365.org/live.txt"},
+{"name":"fanmingming","type":0,"timeout":5,"url":"https://gh.sixyin.com/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u"},
+{"name":"YueChan","type":0,"timeout":5,"url":"https://gh.sixyin.com/https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/APTV.m3u"},
+{"name":"YanG-1989","type":0,"timeout":5,"url":"https://gh.sixyin.com/https://raw.githubusercontent.com/YanG-1989/m3u/refs/heads/main/Gather.m3u"}
 ]
 }
