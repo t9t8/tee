@@ -1,7 +1,7 @@
 // 地址发布页 https://domp4.icu/
 var rule = {
 	title:'MP4电影[磁]',
-	host:'https://www.keymp4.com',
+	host:'https://www.ddmp4.cc',
         homeUrl: '/',
 	url: '/list/fyclass-fypage.html?',
 	filter_url:'{{fl.class}}',
