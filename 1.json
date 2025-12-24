@@ -1,0 +1,205 @@
+{
+  "spider": "./box/spider.jar",
+  "wallpaper": "./box/1.jpg",
+  "sites": [
+    {
+      "key": "豆瓣",
+      "name": "广告别信，小心诈骗！",
+      "type": 3,
+      "api": "csp_Douban",
+      "searchable": 0
+    },
+    {
+      "key": "libvio",
+      "name": "Lib（DR）",
+      "type": 3,
+      "api": "./box/drpy2.min.js",
+      "ext": "./box/libvio.js"
+    },
+    {
+      "key": "路漫",
+      "name": "路漫（DR）",
+      "type": 3,
+      "api": "./box/drpy2.min.js",
+      "ext": "./box/路漫漫.js"
+    },
+    {
+      "key": "金牌",
+      "name": "金牌（PY）",
+      "type": 3,
+      "api": "./box/JPYS.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "site": "https://www.hkybqufgh.com,https://www.sizhengxt.com"
+      }
+    },
+    {
+      "key": "荐片",
+      "name": "荐片（SP）",
+      "api": "csp_Jianpian",
+      "type": 3,
+      "ext": "https://api.ztcgi.com"
+    },
+    {
+      "key": "骚火影视",
+      "name": "骚火（SP）",
+      "type": 3,
+      "api": "csp_SaoHuo",
+      "playerType": 2,
+      "ext": "https://shdy5.us"
+    },
+    {
+      "key": "热播影视",
+      "name": "热播（SP）",
+      "type": 3,
+      "api": "csp_AppRJ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": {
+        "url": "http://v.rbotv.cn"
+      }
+    },
+    {
+      "key": "苹果影视",
+      "name": "苹果（SP）",
+      "type": 3,
+      "api": "csp_LiteApple",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "瓜子影视",
+      "name": "瓜子（SP）",
+      "type": 3,
+      "api": "csp_Gz360",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "云播影视",
+      "name": "云播（SP）",
+      "type": 3,
+      "api": "csp_Tvyb",
+      "ext": "http://www.viptv01.com"
+    },
+    {
+      "key": "New6v",
+      "name": "6V（SP）",
+      "type": 3,
+      "api": "csp_New6v",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.xb6v.com"
+    },
+    {
+      "key": "电影港",
+      "name": "影港（PY）",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./box/电影港.json"
+    },
+    {
+      "key": "非凡",
+      "name": "非凡（广告）",
+      "type": 1,
+      "api": "http://api.ffzyapi.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "量子",
+      "name": "量子（广告）",
+      "type": 1,
+      "api": "https://cj.lziapi.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "版本信息",
+      "name": "版本更新",
+      "type": 3,
+      "api": "csp_Market",
+      "searchable": 0,
+      "changeable": 0,
+      "indexs": 0,
+      "ext": "https://pizazz.s3.bitiful.net/single.json"
+    },
+    {
+      "key": "push_agent",
+      "name": "手机推送",
+      "type": 3,
+      "api": "csp_Push",
+      "searchable": 0,
+      "filterable": 0,
+      "changeable": 0
+    }
+  ],
+  "parses": [
+    {
+      "name": "虾米",
+      "type": 0,
+      "url": "https://jx.xmflv.com/?url="
+    },
+    {
+      "name": "2s0",
+      "type": 0,
+      "url": "https://jx.2s0.cn/player/?url="
+    }
+  ],
+  "flags": [
+    "qq",
+    "youku",
+    "mgtv",
+    "xigua",
+    "qiyi",
+    "bilibili",
+    "腾讯",
+    "爱奇艺",
+    "优酷",
+    "芒果TV",
+    "西瓜视频",
+    "哔哩哔哩",
+    "CNTV",
+    "douyin",
+    "leshi",
+    "乐视",
+    "imgo"
+  ],
+  "lives": [
+    {
+      "name": "t9t8",
+      "type": 0,
+      "timeout": 10,
+      "url": "./live.txt"
+    },
+    {
+      "name": "hw2837",
+      "type": 0,
+      "timeout": 10,
+      "url": "https://gitee.com/hw2837/iptv/raw/master/iptv"
+    },
+    {
+      "name": "冰茶tv",
+      "type": 0,
+      "timeout": 10,
+      "url": "https://bc.188766.xyz/?ip="
+    },
+    {
+      "name": "fafa002",
+      "type": 0,
+      "timeout": 10,
+      "url": "https://gh-proxy.com/raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt"
+    }
+  ]
+}
