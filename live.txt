@@ -166,7 +166,3 @@ CCTV17,http://111.56.90.5/000000000000/5000000011000288014/index.m3u8
 广东,#genre#
 大湾区卫视,http://111.56.90.5/000000000000/1000000002000011619/index.m3u8
 广东珠江,http://111.56.90.5/000000000000/1000000004000011655/index.m3u8
-
-翡翠台,https://smt.1678520.xyz/smt3.2.1.php?id=jade_twn
-无线新闻台,https://smt.1678520.xyz/smt3.2.1.php?id=inews_twn
-翡翠台,http://pullvivek.speedws.com/live/aaajade.flv
