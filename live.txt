@@ -16,7 +16,6 @@ CCTV13,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-xw_4
 CCTV14,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-14H265_4000.m3u8
 CCTV15,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-15-yyH265_4000.m3u8
 CCTV16,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-16_4000.m3u8
-CCTV16-4k,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-16-4K_8000.m3u8
 CCTV17,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-17_4000.m3u8
 
 CCTV1,http://119.91.7.169:2026/dszb/IPTV.php?id=CCTV1
@@ -106,7 +105,6 @@ CCTV17,http://119.91.7.169:2026/dszb/IPTV.php?id=CCTV17
 内蒙古卫视,http://119.91.7.169:2026/dszb/IPTV.php?id=内蒙古卫视
 新疆卫视,http://119.91.7.169:2026/dszb/IPTV.php?id=新疆卫视
 西藏卫视,http://119.91.7.169:2026/dszb/IPTV.php?id=西藏卫视
-农林卫视,http://119.91.7.169:2026/dszb/IPTV.php?id=农林卫视
 兵团卫视,http://119.91.7.169:2026/dszb/IPTV.php?id=兵团卫视
 
 东方卫视,http://nn.7x9d.cn/mk.php?ip=118.212.78.74:8014&id=dfws
